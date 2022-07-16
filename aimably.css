@@ -1,4 +1,8 @@
 .aimably-form .hs-input {
-  background-color: inherit;
+  background-color: field;
+  width: 100%
+}
+
+.aimably-form input.hs-input {
   width: 100%
 }

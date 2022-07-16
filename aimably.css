@@ -1,3 +1,4 @@
 .hs-input {
-  background-color: red;
+  background-color: unset;
+  width: 100%
 }

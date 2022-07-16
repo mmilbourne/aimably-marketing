@@ -6,3 +6,9 @@
 .aimably-form input.hs-input {
   width: 100%
 }
+
+@media screen and (min-width: 1920px)
+.hbspt-form.aimably-form {
+    font-size: 22px;
+    line-height: 32px;
+}

@@ -1,8 +1,4 @@
-.hbspt-form .hs-input {
+div.hbspt-form input.hs-input {
   background-color: field;
-  width: 100%
-}
-
-.hbspt-form input.hs-input {
   width: 100% !important;
 }
